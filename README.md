@@ -42,7 +42,7 @@
 - Types d'entreprises : Studios de développement
 - Exemple d'entreprise : Frima Studio
 
-![Frima Studio](<img width="800" height="571" alt="image" src="https://github.com/user-attachments/assets/af1330e0-8d37-475b-8ae6-6147b9816429" />)
+![Frima Studio](https://lescoopsdelinformation-le-soleil-prod.web.arc-cdn.net/resizer/v2/UKBCCITIAJH77BWCH66354IMMI.jpg?focal=1251%2C772&auth=149ce1c650b1d00d55861e54da9c4e0bcfdc9ef6faa55c2ea163d401342328e3&width=1600&height=1142)
 
 (source de l'image : [Frima Studio](https://www.lesoleil.com/affaires/affaires-locales/2025/04/01/le-studio-frima-met-a-pied-pres-de-40-employes-5LM2B5ZBNJF5ZEMMJG2S7HQITY/))
 
