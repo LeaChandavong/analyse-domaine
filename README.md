@@ -60,4 +60,4 @@
 
 ## Ma capsule
 
-![Mon interface OBS](file:///C:/Users/misky/OneDrive/Images/Screenshots/OBS.png)
+![Mon interface OBS](<img width="1919" height="1032" alt="OBS" src="https://github.com/user-attachments/assets/c3496b27-07fd-4777-97f2-002048da6c02" />)
